@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # Django Web Project - Quotes Hub
 
 This Django web project replicates the functionality of the website [http://quotes.toscrape.com](http://quotes.toscrape.com) and extends it to include user registration, authentication, author addition, and quote submission features. Additionally, it incorporates database migration from MongoDB to Postgres for improved scalability.
